@@ -1,0 +1,171 @@
+==================================================
+  Network Sniffer Started — CodeAlpha Task 1
+  Press Ctrl+C to stop
+==================================================
+--------------------------------------------------
+Source IP      : 20.207.73.82
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 63285
+Payload (raw)  : b'\x17\x03\x03\x00",\x93\xd7\x1ac\xd6i\x8a\x8b\xf1[\xces#y\xf3\xdd\x15\xd4L\x84\xb3\n;\x1d7\xc1\x15\xfa%5\xa7I\x98'
+--------------------------------------------------
+Source IP      : 20.207.73.85
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 56045
+Payload (raw)  : b'\x17\x03\x03\x00"\xe0DIn\x0b\xf0\xc6\xday\xa6\xf2\tf\x88S\xfc_\x03\xb2\xbbF\x8fh:\xddY\xfb\xbc\xbf5\xcf\x1d\x99w'
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 20.207.73.85
+Protocol       : TCP
+Source Port    : 56045
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 20.207.73.82
+Protocol       : TCP
+Source Port    : 63285
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 20.207.73.82
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 63285
+Payload (raw)  : b'\x17\x03\x03\x00",\x93\xd7\x1ac\xd6i\x8a\x8b\xf1[\xces#y\xf3\xdd\x15\xd4L\x84\xb3\n;\x1d7\xc1\x15\xfa%5\xa7I\x98'
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 20.207.73.82
+Protocol       : TCP
+Source Port    : 63285
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 20.207.73.82
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 63285
+--------------------------------------------------
+Source IP      : 20.207.73.82
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 63285
+Payload (raw)  : b'\x17\x03\x03\x00\x13Z\xa4\xdc\xa3\xeb4\xb6\xf8?\x02\xaaY\x05\x13I\xa7Y\x90\xd5'
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 20.207.73.82
+Protocol       : TCP
+Source Port    : 63285
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 20.207.73.82
+Protocol       : TCP
+Source Port    : 63285
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 20.207.73.85
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 56045
+--------------------------------------------------
+Source IP      : 20.207.73.85
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 56045
+Payload (raw)  : b'\x17\x03\x03\x00\x13\x8f\x82\xea\xed\xed\xe4\xecCW\x12\x17\x88.\xd7\xa1\xb0a\xe2T'
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 20.207.73.85
+Protocol       : TCP
+Source Port    : 56045
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 20.207.73.85
+Protocol       : TCP
+Source Port    : 56045
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 20.207.73.82
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 63285
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 140.82.113.21
+Protocol       : TCP
+Source Port    : 65417
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 172.66.164.239
+Protocol       : TCP
+Source Port    : 59830
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 34.149.66.154
+Protocol       : TCP
+Source Port    : 50579
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 34.149.66.154
+Protocol       : TCP
+Source Port    : 55957
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 172.66.164.239
+Protocol       : TCP
+Source Port    : 59830
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 172.66.164.239
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 59830
+--------------------------------------------------
+Source IP      : 34.149.66.154
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 50579
+--------------------------------------------------
+Source IP      : 140.82.113.21
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 65417
+--------------------------------------------------
+Source IP      : 172.66.164.239
+Destination IP : 192.168.1.10
+Protocol       : TCP
+Source Port    : 443
+Dest Port      : 59830
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 172.66.164.239
+Protocol       : TCP
+Source Port    : 59830
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 172.66.164.239
+Protocol       : TCP
+Source Port    : 59830
+Dest Port      : 443
+--------------------------------------------------
+Source IP      : 192.168.1.10
+Destination IP : 34.149.66.154
+Protocol       : TCP
+Source Port    : 50579
+Dest Port      : 443
